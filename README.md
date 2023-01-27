@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/toluwalase-kalejaiye-448bab235">
+  <a href="https://www.linkedin.com/in/tolu0x">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/tolufbg">
@@ -64,6 +64,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
@@ -74,6 +75,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolufbg&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0505&fire=DD2727&sideNums=DD821B)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tolu0x&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0505&fire=DD2727&sideNums=DD821B)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolufbg&layout=compact&theme=vision-friendly-dark)](https://github.com/tolufbg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tolu0x&layout=compact&theme=vision-friendly-dark)](https://github.com/tolu0x/github-readme-stats)
