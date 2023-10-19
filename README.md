@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lagos.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I contribute to open source front end projects.
 
