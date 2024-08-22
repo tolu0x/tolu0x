@@ -1,5 +1,5 @@
 ## <u> <<T>T> </u> 
-I'm Tolu, a Frontend Developer.
+I'm Tolu, a Software Developer.
 
 ### Technology Stacks
 - Language: Rust, Typescript, Solidity
