@@ -2,8 +2,7 @@
 I'm Tolu, a Frontend Developer.
 
 ### Technology Stacks
-- Language: Typescript, Solidity
-- Frameworks: Next.js, Nest, React
+- Language: Rust, Typescript, Solidity
 
 ## <u>How to Contact Me</u>
 
